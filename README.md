@@ -36,6 +36,8 @@ The architecture follows a strictly hierarchical RTL approach:
 
 ---
 
+![WhatsApp Image 2025-06-02 at 9 00 05 PM (3)](https://github.com/user-attachments/assets/f9cc25fd-7834-4a15-b5aa-089ad14c7131)
+
 ## Getting Started
 
 Follow these steps to synthesize the project and deploy it to the FPGA:
