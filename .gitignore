@@ -1,0 +1,59 @@
+# --- Xilinx ISE Temporary & Build Files ---
+# Folderele de log-uri și baze de date intermediare
+_xmsgs/
+xst/
+isim/
+planAhead_run*/
+netgen/
+xlnx_auto_0_xdb/
+_ngo/
+
+# Fișiere de raport și intermediare (cele care apar în poza ta)
+*.lso
+*.ngc
+*.ngr
+*.stx
+*.syr
+*.tcl
+*.log
+*.html
+*.txt
+*.blc
+*.bld
+*.map
+*.mrp
+*.ngd
+*.ngm
+*.ncd
+*.pad
+*.par
+*.pcf
+*.ptwx
+*.unroutes
+*.xpi
+*.twx
+*.xml
+*.drc
+*.ut
+*.bit
+*.bin
+
+# Fișiere de proiect ISE (le ignorăm pentru a lăsa doar codul sursă curat)
+*.gise
+*.xise
+*.restore
+*.ntrc_log
+*.unp
+*.ptw
+
+# --- Simulation Files (ModelSim / ISim) ---
+*.wdb
+*.wcfg
+*.ini
+work/
+vsim.wlf
+transcript
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
