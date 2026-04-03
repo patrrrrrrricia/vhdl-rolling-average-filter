@@ -37,6 +37,7 @@ _ngo/
 *.ut
 *.bit
 *.bin
+*.tcl
 
 # Fișiere de proiect ISE (le ignorăm pentru a lăsa doar codul sursă curat)
 *.gise
