@@ -59,3 +59,4 @@ vsim work.testbench_rolling_average
 # Deploy to Hardware
 # Use Digilent ExPort or Adept to load the bitstream onto the S3 Board
 ```
+© 2025 Glitter Geeks Coderun | Developed by [**𝐌𝐨𝐥𝐝𝐨𝐯𝐚𝐧 𝐈𝐮𝐥𝐢𝐚𝐧𝐚**](https://github.com/iulianamoldovan), [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://github.com/patrrrrrrricia)
