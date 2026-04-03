@@ -64,8 +64,3 @@ vsim work.testbench_rolling_average
 © 2025 Hardware Intelligence Lab UTCN | Developed by [**𝐌𝐨𝐥𝐝𝐨𝐯𝐚𝐧 𝐈𝐮𝐥𝐢𝐚𝐧𝐚**](https://github.com/iulianamoldovan), [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://github.com/patrrrrrrricia)
 
 
-
-
-
-
-
