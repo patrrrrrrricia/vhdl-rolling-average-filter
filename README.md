@@ -31,7 +31,7 @@ A sophisticated digital signal processing (DSP) ecosystem designed for real-time
 * **`display.vhd`**: The display driver containing multiplexing logic for the 4-digit 7-segment display.
 * **`seven_segment.vhd`**: A hardware decoder that converts binary/hexadecimal data into the patterns required for the 7-segment segments.
 * **`divizor_frecv.vhd`**: Clock divider module that scales the system clock frequency for timing-sensitive operations.
-* **`constrangeri.xcl`**: Physical pin mapping and timing constraints for the Digilent S3 board (Switches, Buttons, Clock).
+* **`constrangeri.xdc`**: Physical pin mapping and timing constraints for the Digilent S3 board (Switches, Buttons, Clock).
 
 ---
 
