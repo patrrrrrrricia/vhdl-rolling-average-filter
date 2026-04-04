@@ -1,2 +1,4 @@
 *.tcl linguist-vendored
 *.dcp linguist-vendored
+*.tcl linguist-detectable=false
+*.tcl linguist-vendored
