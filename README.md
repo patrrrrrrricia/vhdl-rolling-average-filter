@@ -25,14 +25,13 @@ A sophisticated digital signal processing (DSP) ecosystem designed for real-time
 * **Control Intelligence:** Hardware-level debounce logic for buttons and synchronous reset state management.
 
 ---
-
-## 📂 Project Structure
-The architecture follows a strictly hierarchical RTL approach:
-* **`top_level.vhd`**: The master orchestrator connecting the generator, filter, and display modules.
-* **`data_generator.vhd`**: Logic for PRBS (Pseudo-Random Binary Sequence) and square wave synthesis.
-* **`rolling_average.vhd`**: The core compute engine utilizing a shift-register buffer and accumulator.
-* **`display_driver.vhd`**: Multiplexing logic for the 4-digit 7-segment display.
-* **`constraints.ucf`**: Physical pin mapping for the Digilent S3 board (Switches, Buttons, Clock).
+* **`executie.vhd`** (Top Level): The master orchestrator that instantiates and connects the generator, filter, and display modules.
+* **`generator.vhd`**: Data generation logic responsible for PRBS (Pseudo-Random Binary Sequence) and square wave synthesis.
+* **`media.vhd`**: The core compute engine implementing a **Rolling Average** filter using a shift-register buffer and an accumulator.
+* **`display.vhd`**: The display driver containing multiplexing logic for the 4-digit 7-segment display.
+* **`seven_segment.vhd`**: A hardware decoder that converts binary/hexadecimal data into the patterns required for the 7-segment segments.
+* **`divizor_frecv.vhd`**: Clock divider module that scales the system clock frequency for timing-sensitive operations.
+* **`constrangeri.xcl`**: Physical pin mapping and timing constraints for the Digilent S3 board (Switches, Buttons, Clock).
 
 ---
 
