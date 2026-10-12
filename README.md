@@ -37,29 +37,6 @@ A sophisticated digital signal processing (DSP) ecosystem designed for real-time
 
 ![WhatsApp Image 2025-06-02 at 9 00 05 PM (3)](https://github.com/user-attachments/assets/f9cc25fd-7834-4a15-b5aa-089ad14c7131)
 
-## Getting Started
-
-Follow these steps to synthesize the project and deploy it to the FPGA:
-
-```bash
-# Clone the repository
-git clone [https://github.com/patrrrrrrricia/vhdl-rolling-average-filter.git](https://github.com/patrrrrrrricia/vhdl-rolling-average-filter.git)
-cd vhdl-rolling-average-filter
-
-# 1. Open Xilinx ISE WebPack
-# 2. Create a new project targeting XC3S200 (FT256 Package)
-# 3. Add all .vhd files from the source directory
-
-# Run Functional Simulation
-# Using ModelSim to verify the rolling average logic
-vsim work.testbench_rolling_average
-
-# Synthesize and Implement
-# Run 'Generate Programming File' to create the .bit file
-
-# Deploy to Hardware
-# Use Digilent ExPort or Adept to load the bitstream onto the S3 Board
-```
 © 2025 Hardware Intelligence Lab UTCN | Developed by [**𝐌𝐨𝐥𝐝𝐨𝐯𝐚𝐧 𝐈𝐮𝐥𝐢𝐚𝐧𝐚**](https://github.com/iulianamoldovan), [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/)
 
 
