@@ -37,6 +37,8 @@ A sophisticated digital signal processing (DSP) ecosystem designed for real-time
 
 ![WhatsApp Image 2025-06-02 at 9 00 05 PM (3)](https://github.com/user-attachments/assets/f9cc25fd-7834-4a15-b5aa-089ad14c7131)
 
+---
+
 © 2025 Hardware Intelligence Lab UTCN | Developed by [**𝐌𝐨𝐥𝐝𝐨𝐯𝐚𝐧 𝐈𝐮𝐥𝐢𝐚𝐧𝐚**](https://github.com/iulianamoldovan), [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/)
 
 
