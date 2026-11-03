@@ -1,11 +1,11 @@
 # FPGA Rolling Average Compute Unit
 
-## 💻 Overview
+## Overview
 A sophisticated digital signal processing (DSP) ecosystem designed for real-time numeric analysis on FPGA hardware. Built with **VHDL**, this application orchestrates a dynamic filtering pipeline that calculates the rolling average of incoming data streams. Beyond simple summation, the system features a **modular signal generator** (LFSR & Square Wave) and a programmable filtering engine that optimizes hardware resources through power-of-two bit-shifting arithmetic.
 
 ---
 
-## 🤍 Tech Stack
+## Tech Stack
 * **Hardware Language:** **VHDL-93** (Modular Design)
 * **Target Device:** Xilinx Spartan-3 **XC3S200** FPGA
 * **Simulation & Synthesis:** ModelSim, **Xilinx ISE WebPack 6.3**
@@ -17,7 +17,7 @@ A sophisticated digital signal processing (DSP) ecosystem designed for real-time
 
 ---
 
-## 🎀 Core Functionality
+## Core Functionality
 * **Dynamic Data Orchestration:** Features an integrated generator capable of producing 0.25 Hz square waves and 4/8/9-bit **Linear Feedback Shift Register (LFSR)** sequences for pseudo-random data streams.
 * **Adaptive Rolling Filter:** * **Programmable Window:** Selectable average lengths ($L = 2, 4, 8, 16$) via hardware switches.
     * **Resource Optimization:** Implements "Running Total" logic to minimize gate delay, using bit-shifting for division.
