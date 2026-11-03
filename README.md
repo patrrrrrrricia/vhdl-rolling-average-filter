@@ -39,7 +39,7 @@ A sophisticated digital signal processing (DSP) ecosystem designed for real-time
 
 ---
 
-© 2025 Hardware Intelligence Lab UTCN | Developed by [**𝐌𝐨𝐥𝐝𝐨𝐯𝐚𝐧 𝐈𝐮𝐥𝐢𝐚𝐧𝐚**](https://github.com/iulianamoldovan), [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/)
+© 2025 FPGA Rolling Average Compute Unit | Developed by [**𝐌𝐨𝐥𝐝𝐨𝐯𝐚𝐧 𝐈𝐮𝐥𝐢𝐚𝐧𝐚**](https://github.com/iulianamoldovan), [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/)
 
 
 
