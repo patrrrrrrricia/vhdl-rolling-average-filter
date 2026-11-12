@@ -11,9 +11,9 @@ A sophisticated digital signal processing (DSP) ecosystem designed for real-time
 * **Simulation & Synthesis:** ModelSim, **Xilinx ISE WebPack 6.3**
 * **Architecture:** Finite State Machines (FSM) & Structural RTL
 
-![VHDL](https://img.shields.io/badge/VHDL-93-%23FF69B4.svg?style=for-the-badge&logo=vhdl&logoColor=white) ![Xilinx](https://img.shields.io/badge/Xilinx-ISE-%23FFB6C1.svg?style=for-the-badge&logo=xilinx&logoColor=black)
+![VHDL](https://img.shields.io/badge/VHDL-93-ECCACB.svg?style=for-the-badge&logo=vhdl&logoColor=3B3B3B) ![Xilinx](https://img.shields.io/badge/Xilinx-ISE-FCFAFA.svg?style=for-the-badge&logo=xilinx&logoColor=3B3B3B)
 
-![Digital Signal Processing](https://img.shields.io/badge/DSP-Filtering-%234F4F4F.svg?style=for-the-badge&logo=cpu&logoColor=white) ![FPGA](https://img.shields.io/badge/Hardware-Spartan--3-%234F4F4F.svg?style=for-the-badge&logo=microchip&logoColor=white) ![RTL](https://img.shields.io/badge/RTL-Design-%234F4F4F.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![Digital Signal Processing](https://img.shields.io/badge/DSP-Filtering-3B3B3B.svg?style=for-the-badge&logo=cpu&logoColor=FCFAFA) ![FPGA](https://img.shields.io/badge/Hardware-Spartan--3-3B3B3B.svg?style=for-the-badge&logo=microchip&logoColor=FCFAFA) ![RTL](https://img.shields.io/badge/RTL-Design-3B3B3B.svg?style=for-the-badge&logo=diagrams.net&logoColor=FCFAFA)
 
 ---
 
